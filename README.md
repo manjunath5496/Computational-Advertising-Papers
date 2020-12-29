@@ -3,7 +3,7 @@
 
 <ul>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20%28Airbnb%202018%29.pdf">[Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)</a></li>
-<li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BDIEN%5D%20Deep%20Interest%20Evolution%20Network%20for%20Click-Through%20Rate%20Prediction%20%28Alibaba%202019%29.pdf">[DIEN] Deep Interest Evolution Network for Click-Through Rate Prediction (Alibaba 2019)</a><br /><br /></li>
+<li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BDIEN%5D%20Deep%20Interest%20Evolution%20Network%20for%20Click-Through%20Rate%20Prediction%20%28Alibaba%202019%29.pdf">[DIEN] Deep Interest Evolution Network for Click-Through Rate Prediction (Alibaba 2019)</a></li>
 
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/Google%20Vizier%20A%20Service%20for%20Black-Box%20Optimization.pdf">Google Vizier A Service for Black-Box Optimization</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/Hogwild%20A%20Lock-Free%20Approach%20to%20Parallelizing%20Stochastic%20Gradient%20Descent.pdf">Hogwild A Lock-Free Approach to Parallelizing Stochastic Gradient Descent</a></li>
