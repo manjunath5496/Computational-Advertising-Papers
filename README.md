@@ -28,8 +28,6 @@
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/libfm-1.42.manual.pdf">libfm-1.42.manual</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/Scaling%20Factorization%20Machines%20to%20Relational%20Data.pdf">Scaling Factorization Machines to Relational Data</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/fastFM-%20A%20Library%20for%20Factorization%20Machines.pdf">fastFM- A Library for Factorization Machines</a></li>
-</ul>
-<ul>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BNegative%20Sampling%5D%20Word2vec%20Explained%20Negative-Sampling%20Word-Embedding%20Method%20%282014%29.pdf">[Negative Sampling] Word2vec Explained Negative-Sampling Word-Embedding Method (2014)</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BSDNE%5D%20Structural%20Deep%20Network%20Embedding%20%28THU%202016%29.pdf">[SDNE] Structural Deep Network Embedding (THU 2016)</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BItem2Vec%5D%20Item2Vec-Neural%20Item%20Embedding%20for%20Collaborative%20Filtering%20%28Microsoft%202016%29.pdf">[Item2Vec] Item2Vec-Neural Item Embedding for Collaborative Filtering (Microsoft 2016)</a></li>
@@ -56,8 +54,7 @@
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/Risk-Aware%20Dynamic%20Reserve%20Prices%20of%20Programmatic%20Guarantee%20in%20Display%20Advertising.pdf">Risk-Aware Dynamic Reserve Prices of Programmatic Guarantee in Display Advertising</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/Pricing%20Guidance%20in%20Ad%20Sale%20Negotiations%20The%20PrintAds%20Example.pdf">Pricing Guidance in Ad Sale Negotiations The PrintAds Example</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/Risk-Aware%20Revenue%20Maximization%20in%20Display%20Advertising.pdf">Risk-Aware Revenue Maximization in Display Advertising</a></li>
-</ul>
-<ul>
+
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BLR%5D%20Predicting%20Clicks%20-%20Estimating%20the%20Click-Through%20Rate%20for%20New%20Ads%20%28Microsoft%202007%29.pdf">[LR] Predicting Clicks - Estimating the Click-Through Rate for New Ads (Microsoft 2007)</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BFFM%5D%20Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction%20%28Criteo%202016%29.pdf">[FFM] Field-aware Factorization Machines for CTR Prediction (Criteo 2016)</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BGBDT%2BLR%5D%20Practical%20Lessons%20from%20Predicting%20Clicks%20on%20Ads%20at%20Facebook%20%28Facebook%202014%29.pdf">[GBDT+LR] Practical Lessons from Predicting Clicks on Ads at Facebook (Facebook 2014)</a></li>
@@ -93,8 +90,7 @@
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BMulti-Task%5DAn%20Overview%20of%20Multi-Task%20Learning%20in%20Deep%20Neural%20Networks.pdf">[Multi-Task]An Overview of Multi-Task Learning in Deep Neural Networks</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/Scalable%20Hands-Free%20Transfer%20Learning%20for%20Online%20Advertising.pdf">Scalable Hands-Free Transfer Learning for Online Advertising</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/A%20Survey%20on%20Transfer%20Learning.pdf">A Survey on Transfer Learning</a></li>
-</ul>
-<ul>
+
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BDCN%5D%20Deep%20%26%20Cross%20Network%20for%20Ad%20Click%20Predictions%20%28Stanford%202017%29.pdf">[DCN] Deep &amp; Cross Network for Ad Click Predictions (Stanford 2017)</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BDeep%20Crossing%5D%20Deep%20Crossing%20-%20Web-Scale%20Modeling%20without%20Manually%20Crafted%20Combinatorial%20Features%20%28Microsoft%202016%29.pdf">[Deep Crossing] Deep Crossing - Web-Scale Modeling without Manually Crafted Combinatorial Features (Microsoft 2016)</a></li>
 <li><a href="https://github.com/manjunath5496/Computational-Advertising-Papers/blob/main/img/%5BPNN%5D%20Product-based%20Neural%20Networks%20for%20User%20Response%20Prediction%20%28SJTU%202016%29.pdf">[PNN] Product-based Neural Networks for User Response Prediction (SJTU 2016)</a></li>
